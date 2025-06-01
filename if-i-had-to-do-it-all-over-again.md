@@ -1,13 +1,13 @@
 My ability to understand and write code has been one of the most cherished things in my life. It's like that Cole lyric where he talks about rapping as the only thing he can see himself doing. I don't know anything other than the art of code.
 
-> I'm deep in with this rappin' <br/>
-> It's all a n**ga know <br/>
-> I never didn't nothin' better <br/>
-> It's hard to let it go <br/>
-> But like a father watching his daughter <br/>
-> Walk down the altar with tears in his eyes <br/>
-> You gotta let her grow <br/>
-> And so I shall <br/>
+> I'm deep in with this rappin'  
+> It's all a n**ga know  
+> I never didn't nothin' better   
+> It's hard to let it go   
+> But like a father watching his daughter   
+> Walk down the altar with tears in his eyes   
+> You gotta let her grow   
+> And so I shall   
 
 \- ["on the street" by j-hope ft J Cole](https://www.youtube.com/watch?v=r6WbbU_lLCA)
 
