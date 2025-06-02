@@ -24,7 +24,7 @@ One day, I stumbled upon his Visual Studio 2013 code. Even though I didn't get i
 
 When I showed my dad, his reaction wasn't what I expected. Instead of praise, he said, "You shouldn't really get into this business. I'd rather want you to be a lawyer." I didn't want to be a lawyer, and that's when I started keeping my coding progress to myself.
 
-# the how i'm aware, the what or why i'm not
+## the how i'm aware, the what or why i'm not
 Once I got used to the laptop, I started looking up things I could make and that is when I realized "oh dang I know this thing called programming exists which givesme the ability to create basically anything that I want and guess what the 13 year old me wanted, GRAND THEFT AUTO. I didn't really have any games to play as dad hated those so any game would get deleted. Creating one felt like a god sent solution to this problem. So I once searched game development on google, checked the image section, saw a mention of autodesk maya and learnt (incorrect but yes) that autodesk maya is a drag and drop game designing software. I WAS 13 OKAY?. So I asked my dad if I could install AUTODESK MAYA in the laptop and he said it wont run on this one. I was disapointed. One day (top #10 moments) I found out about brackeys 
 
 ***BRACKEYS I FUCKING LOVE YOU. YOU ARE THE BEST GAME DEV CREATOR EVER***. 
